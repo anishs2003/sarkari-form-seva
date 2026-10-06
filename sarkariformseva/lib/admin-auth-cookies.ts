@@ -1,0 +1,1 @@
+export const adminSessionCookieName = "sfs_admin_session";

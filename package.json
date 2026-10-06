@@ -1,0 +1,11 @@
+{
+  "name": "sarkariformseva-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix sarkariformseva run dev",
+    "build": "npm --prefix sarkariformseva run build",
+    "start": "npm --prefix sarkariformseva run start",
+    "lint": "npm --prefix sarkariformseva run lint",
+    "admin:password": "npm --prefix sarkariformseva run admin:password"
+  }
+}
